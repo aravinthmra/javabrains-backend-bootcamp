@@ -20,7 +20,7 @@ CDN                                 Backend server
 - routes the request to the server closest to the user
 - faster than getting this from the origin server
 
-![web-application-flow](/assets/webapplication-flow.jpg)
+![web-application-flow](Notes/assets/webapplication-flow.jpg)
 
 ## Web request - how it works?
 - The browser send a request to the DNS (Domain Name System) server, to resolve the domain name of the URL to its corresponding IP address.
